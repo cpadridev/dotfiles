@@ -1,0 +1,6 @@
+[2022-06-15 16:47:28.717] [sharedprocess] [info] Starting worker process with pid 18688 (type: fileWatcher, window: 1).
+[2022-06-15 17:15:05.619] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 18688 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+[2022-06-15 17:15:05.648] [sharedprocess] [info] Starting worker process with pid 28860 (type: fileWatcher, window: 1).
+[2022-06-15 17:15:05.928] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-06-15 17:15:05.928] [sharedprocess] [info] Worker process with pid 28860 terminated normally (type: fileWatcher, window: 1).
+[2022-06-15 17:15:05.936] [sharedprocess] [info] Starting worker process with pid 28880 (type: fileWatcher, window: 1).

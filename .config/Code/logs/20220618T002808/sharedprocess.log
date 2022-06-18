@@ -1,0 +1,10 @@
+[2022-06-18 00:28:10.146] [sharedprocess] [info] Starting worker process with pid 1643 (type: fileWatcher, window: 1).
+[2022-06-18 00:28:12.356] [sharedprocess] [info] Getting Manifest... github.copilot
+[2022-06-18 00:28:12.994] [sharedprocess] [info] Installing extension: github.copilot
+[2022-06-18 00:28:14.230] [sharedprocess] [info] Downloaded extension: github.copilot /home/cpadridev/.config/Code/CachedExtensionVSIXs/github.copilot-1.30.6165
+[2022-06-18 00:28:14.325] [sharedprocess] [info] Extracted extension to /home/cpadridev/.vscode/extensions/.2fb57dfb-e519-499c-8609-2bf3f0e3be43: github.copilot
+[2022-06-18 00:28:14.329] [sharedprocess] [info] Renamed to /home/cpadridev/.vscode/extensions/github.copilot-1.30.6165
+[2022-06-18 00:28:14.330] [sharedprocess] [info] Extracting completed. github.copilot
+[2022-06-18 00:28:14.335] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2022-06-18 01:00:22.530] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 1643 terminated by itself with code null, signal: SIGTRAP (type: fileWatcher, window: 1)
+[2022-06-18 01:00:22.538] [sharedprocess] [info] Starting worker process with pid 2757 (type: fileWatcher, window: 1).

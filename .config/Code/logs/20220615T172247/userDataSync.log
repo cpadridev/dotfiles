@@ -1,0 +1,28 @@
+[2022-06-15 17:22:48.517] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2022-06-15 17:22:48.517] [settingssync] [info] Auto Sync is enabled.
+[2022-06-15 17:22:48.517] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2022-06-15 17:22:50.926] [settingssync] [info] Auto Sync: Started
+[2022-06-15 17:22:50.926] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-06-15 17:22:51.299] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-06-15 17:22:51.347] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-06-15 17:22:51.352] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-15 17:22:51.354] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-15 17:22:51.357] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-06-15 17:22:51.401] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-06-15 17:22:51.402] [settingssync] [info] Sync done. Took 150ms
+[2022-06-15 17:24:34.919] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-06-15 17:24:35.032] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-06-15 17:24:35.036] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-06-15 17:24:35.038] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-15 17:24:35.040] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-15 17:24:35.044] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-06-15 17:24:35.117] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-06-15 17:24:35.118] [settingssync] [info] Sync done. Took 94ms
+[2022-06-15 17:24:48.270] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-06-15 17:24:48.381] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-06-15 17:24:48.383] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-06-15 17:24:48.387] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-15 17:24:48.389] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-15 17:24:48.393] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-06-15 17:24:48.492] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-06-15 17:24:48.493] [settingssync] [info] Sync done. Took 116ms

@@ -1,0 +1,25 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap");
+
+$primary: hsl(263, 55%, 52%);
+$succes: hsl(217, 19%, 35%);
+$dark: hsl(219, 29%, 14%);
+
+$secondary: #EDF2F8;
+
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.graduate {
+  font-weight: 500;
+  opacity: 50%;
+}
+
+.cite {
+  font-weight: 500;
+  opacity: 70%;
+}

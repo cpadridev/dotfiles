@@ -1,0 +1,30 @@
+[Info  - 5:22:51 PM] (34606) Pylance language server 2022.6.10 (pyright bbc42826) starting
+[Info  - 5:22:51 PM] (34606) Server root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.10/dist
+Notebook support: Legacy
+[Info  - 5:22:52 PM] (34606) No configuration file found.
+[Info  - 5:22:52 PM] (34606) No pyproject.toml file found.
+[Info  - 5:22:52 PM] (34606) Setting pythonPath for service "cpadridev": "/bin/python"
+[Warn  - 5:22:52 PM] (34606) stubPath /home/cpadridev/typings is not a valid directory.
+[Info  - 5:22:52 PM] (34606) Assuming Python version 3.10
+[Info  - 5:22:52 PM] (34606) Assuming Python platform Linux
+[Info  - 5:22:52 PM] (34606) Searching for source files
+[Info  - 5:22:52 PM] (34606) No source files found.
+[Info  - 5:22:53 PM] (34606) Background analysis(1) root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.10/dist
+[Info  - 5:22:53 PM] (34606) Background analysis(1) started
+[Info  - 5:22:53 PM] (34606) Indexer background runner(2) root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 5:22:53 PM] (34606) Indexing(2) started
+[Info  - 5:22:53 PM] (34606) Indexer done(2). indexed 447 files
+[Info  - 5:22:53 PM] (34606) Searching for source files
+[Info  - 5:22:53 PM] (34606) No source files found.
+[Info  - 5:24:20 PM] (34606) Searching for source files
+[Info  - 5:24:20 PM] (34606) No source files found.
+[Info  - 5:24:21 PM] (34606) Searching for source files
+[Info  - 5:24:21 PM] (34606) No source files found.
+[Info  - 5:24:22 PM] (34606) Searching for source files
+[Info  - 5:24:22 PM] (34606) No source files found.
+[Info  - 5:24:31 PM] (34606) Searching for source files
+[Info  - 5:24:31 PM] (34606) No source files found.
+[Info  - 5:24:52 PM] (34606) Searching for source files
+[Info  - 5:24:52 PM] (34606) No source files found.
+[Info  - 5:25:05 PM] (34606) Searching for source files
+[Info  - 5:25:05 PM] (34606) No source files found.

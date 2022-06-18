@@ -1,0 +1,210 @@
+[2022-06-18T11:25:32.403Z] Validating found git in: git
+[2022-06-18T11:25:32.497Z] Using git 2.36.1 from git
+[2022-06-18T11:25:32.512Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-18T11:25:32.512Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.541Z] > git rev-parse --show-toplevel [23ms]
+[2022-06-18T11:25:32.541Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.547Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.547Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.569Z] > git rev-parse --show-toplevel [17ms]
+[2022-06-18T11:25:32.569Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.578Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-18T11:25:32.578Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.587Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-18T11:25:32.587Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.629Z] > git rev-parse --show-toplevel [11ms]
+[2022-06-18T11:25:32.629Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.639Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-18T11:25:32.639Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.694Z] > git rev-parse --show-toplevel [49ms]
+[2022-06-18T11:25:32.694Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.702Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-18T11:25:32.702Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.709Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.709Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.720Z] > git rev-parse --show-toplevel [5ms]
+[2022-06-18T11:25:32.720Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.728Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-18T11:25:32.728Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.743Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-18T11:25:32.743Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.749Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.749Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.756Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.756Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.763Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.763Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.769Z] > git rev-parse --show-toplevel [0ms]
+[2022-06-18T11:25:32.769Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.774Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.774Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.779Z] > git rev-parse --show-toplevel [0ms]
+[2022-06-18T11:25:32.779Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.784Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.784Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.789Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.789Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.794Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.794Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.799Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.799Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.806Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.806Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.812Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.812Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.818Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:25:32.818Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:25:32.824Z] > git rev-parse --show-toplevel [0ms]
+[2022-06-18T11:25:32.825Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:26:25.258Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:26:25.267Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-06-18T11:26:25.273Z] Open repository: /home/cpadridev/.cache/yay/lib32-dav1d
+[2022-06-18T11:26:25.297Z] > git status -z -uall [12ms]
+[2022-06-18T11:26:25.306Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-18T11:26:25.314Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-06-18T11:26:25.316Z] Open repository: /home/cpadridev/.cache/yay/visual-studio-code-bin
+[2022-06-18T11:26:25.336Z] > git symbolic-ref --short HEAD [31ms]
+[2022-06-18T11:26:25.349Z] > git status -z -uall [23ms]
+[2022-06-18T11:26:25.356Z] > git rev-parse --show-toplevel [21ms]
+[2022-06-18T11:26:25.367Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-06-18T11:26:25.369Z] Open repository: /home/cpadridev/.cache/yay/yay-git
+[2022-06-18T11:26:25.379Z] > git symbolic-ref --short HEAD [23ms]
+[2022-06-18T11:26:25.387Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [41ms]
+[2022-06-18T11:26:25.405Z] > git status -z -uall [27ms]
+[2022-06-18T11:26:25.413Z] > git remote --verbose [10ms]
+[2022-06-18T11:26:25.413Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+[2022-06-18T11:26:25.417Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+[2022-06-18T11:26:25.439Z] > git remote --verbose [9ms]
+[2022-06-18T11:26:25.439Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-06-18T11:26:25.443Z] > git symbolic-ref --short HEAD [31ms]
+[2022-06-18T11:26:25.466Z] > git config --get commit.template [27ms]
+[2022-06-18T11:26:25.473Z] > git config --get commit.template [7ms]
+[2022-06-18T11:26:25.474Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+[2022-06-18T11:26:25.489Z] > git remote --verbose [1ms]
+[2022-06-18T11:26:25.489Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-18T11:26:25.506Z] > git config --get commit.template [0ms]
+[2022-06-18T11:26:25.718Z] > git config --local branch.master.github-pr-owner-number [2ms]
+[2022-06-18T11:26:25.729Z] > git config --local branch.master.github-pr-owner-number [1ms]
+[2022-06-18T11:26:25.741Z] > git config --local branch.master.github-pr-owner-number [1ms]
+[2022-06-18T11:26:47.975Z] > git status -z -uall [22ms]
+[2022-06-18T11:26:47.985Z] > git status -z -uall [22ms]
+[2022-06-18T11:26:47.995Z] > git status -z -uall [21ms]
+[2022-06-18T11:26:48.006Z] > git symbolic-ref --short HEAD [11ms]
+[2022-06-18T11:26:48.016Z] > git symbolic-ref --short HEAD [31ms]
+[2022-06-18T11:26:48.026Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+[2022-06-18T11:26:48.046Z] > git symbolic-ref --short HEAD [41ms]
+[2022-06-18T11:26:48.057Z] > git remote --verbose [11ms]
+[2022-06-18T11:26:48.057Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+[2022-06-18T11:26:48.058Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+[2022-06-18T11:26:48.090Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+[2022-06-18T11:26:48.090Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [34ms]
+[2022-06-18T11:26:48.111Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-06-18T11:26:48.112Z] > git config --get commit.template [23ms]
+[2022-06-18T11:26:48.112Z] > git remote --verbose [34ms]
+[2022-06-18T11:26:48.123Z] > git remote --verbose [12ms]
+[2022-06-18T11:26:48.135Z] > git config --get commit.template [12ms]
+[2022-06-18T11:26:48.136Z] > git config --get commit.template [1ms]
+[2022-06-18T11:26:49.984Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-18T11:26:49.984Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-18T11:26:53.121Z] > git status -z -uall [1ms]
+[2022-06-18T11:26:53.129Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T11:26:53.152Z] > git status -z -uall [8ms]
+[2022-06-18T11:26:53.160Z] > git status -z -uall [9ms]
+[2022-06-18T11:26:53.167Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+[2022-06-18T11:26:53.181Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-18T11:26:53.181Z] > git symbolic-ref --short HEAD [14ms]
+[2022-06-18T11:26:53.189Z] > git symbolic-ref --short HEAD [29ms]
+[2022-06-18T11:26:53.195Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+[2022-06-18T11:26:53.209Z] > git remote --verbose [28ms]
+[2022-06-18T11:26:53.218Z] > git remote --verbose [9ms]
+[2022-06-18T11:26:53.218Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-06-18T11:26:53.219Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+[2022-06-18T11:26:53.241Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-06-18T11:26:53.242Z] > git config --get commit.template [25ms]
+[2022-06-18T11:26:53.242Z] > git config --get commit.template [1ms]
+[2022-06-18T11:26:53.242Z] > git remote --verbose [9ms]
+[2022-06-18T11:26:53.251Z] > git config --get commit.template [1ms]
+[2022-06-18T11:26:58.250Z] > git status -z -uall [0ms]
+[2022-06-18T11:26:58.263Z] > git symbolic-ref --short HEAD [6ms]
+[2022-06-18T11:26:58.271Z] > git status -z -uall [8ms]
+[2022-06-18T11:26:58.278Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+[2022-06-18T11:26:58.290Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-06-18T11:26:58.290Z] > git symbolic-ref --short HEAD [13ms]
+[2022-06-18T11:26:58.296Z] > git remote --verbose [6ms]
+[2022-06-18T11:26:58.305Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+[2022-06-18T11:26:58.319Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-18T11:26:58.319Z] > git config --get commit.template [15ms]
+[2022-06-18T11:26:58.319Z] > git remote --verbose [1ms]
+[2022-06-18T11:26:58.341Z] > git config --get commit.template [1ms]
+[2022-06-18T11:27:03.361Z] > git status -z -uall [12ms]
+[2022-06-18T11:27:03.369Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T11:27:03.377Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-18T11:27:03.391Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-18T11:27:03.391Z] > git remote --verbose [0ms]
+[2022-06-18T11:27:03.419Z] > git config --get commit.template [1ms]
+[2022-06-18T11:27:08.429Z] > git status -z -uall [1ms]
+[2022-06-18T11:27:08.437Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T11:27:08.445Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-18T11:27:08.459Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-18T11:27:08.459Z] > git remote --verbose [0ms]
+[2022-06-18T11:27:08.475Z] > git config --get commit.template [1ms]
+[2022-06-18T11:27:10.296Z] > git status -z -uall [0ms]
+[2022-06-18T11:27:10.304Z] > git symbolic-ref --short HEAD [0ms]
+[2022-06-18T11:27:10.312Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+[2022-06-18T11:27:10.326Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-18T11:27:10.327Z] > git remote --verbose [1ms]
+[2022-06-18T11:27:10.335Z] > git config --get commit.template [1ms]
+[2022-06-18T11:27:15.346Z] > git status -z -uall [1ms]
+[2022-06-18T11:27:15.359Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T11:27:15.370Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-18T11:27:15.398Z] > git remote --verbose [1ms]
+[2022-06-18T11:27:15.398Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-06-18T11:27:15.411Z] > git config --get commit.template [1ms]
+[2022-06-18T11:27:21.864Z] > git status -z -uall [1ms]
+[2022-06-18T11:27:21.872Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T11:27:21.879Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+[2022-06-18T11:27:21.893Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-06-18T11:27:21.894Z] > git remote --verbose [1ms]
+[2022-06-18T11:27:21.901Z] > git config --get commit.template [0ms]
+[2022-06-18T11:27:40.558Z] > git status -z -uall [1ms]
+[2022-06-18T11:27:40.568Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T11:27:40.575Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-18T11:27:40.593Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-06-18T11:27:40.593Z] > git remote --verbose [0ms]
+[2022-06-18T11:27:40.602Z] > git config --get commit.template [1ms]
+[2022-06-18T11:29:04.568Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-18T11:29:04.578Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-06-18T11:29:04.580Z] Open repository: /home/cpadridev
+[2022-06-18T11:29:04.695Z] > git status -z -uall [104ms]
+[2022-06-18T11:29:04.904Z] > git show --textconv :.bashrc [10ms]
+[2022-06-18T11:29:04.905Z] > git ls-files --stage -- /home/cpadridev/.bashrc [1ms]
+[2022-06-18T11:29:05.119Z] > git check-ignore -v -z --stdin [1ms]

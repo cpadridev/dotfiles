@@ -1,0 +1,82 @@
+[INFO] [ghostText] [2022-06-16T14:54:53.135Z] Cancelled after extractPrompt
+[INFO] [default] [2022-06-16T14:55:01.027Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:55:01.544Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 516 ms
+[INFO] [streamChoices] [2022-06-16T14:55:01.546Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlBdVXCEGQYyoz68t3Vow6n1rDqQ}] created: [{1655391301}]
+[INFO] [default] [2022-06-16T14:58:30.936Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:58:31.730Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 793 ms
+[INFO] [streamChoices] [2022-06-16T14:58:31.731Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlF13dt1CYt4IX6X6SCTS7WMNqZU}] created: [{1655391511}]
+[INFO] [default] [2022-06-16T14:58:35.148Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:58:35.373Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 225 ms
+[INFO] [streamChoices] [2022-06-16T14:58:35.374Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlF56Cjq0cz7BkqFqXeghqlwEiy1}] created: [{1655391515}]
+[INFO] [default] [2022-06-16T14:58:38.473Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:58:38.701Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 228 ms
+[INFO] [streamChoices] [2022-06-16T14:58:38.702Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlF8yMGZuwh14SJNwf2JZrNeHPkD}] created: [{1655391518}]
+[INFO] [default] [2022-06-16T14:58:40.752Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:58:40.990Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 238 ms
+[INFO] [streamChoices] [2022-06-16T14:58:40.992Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlFALBMu3fEyTI86oVHoiIs3iRRp}] created: [{1655391520}]
+[INFO] [default] [2022-06-16T14:58:56.815Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:58:57.137Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:59:03.952Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:59:04.262Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 310 ms
+[INFO] [streamChoices] [2022-06-16T14:59:04.263Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlFYbQT2jJtoAC7IJck6VNAEgTam}] created: [{1655391544}]
+[INFO] [default] [2022-06-16T14:59:04.884Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T14:59:05.107Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 223 ms
+[INFO] [streamChoices] [2022-06-16T14:59:05.108Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlFYLBL2QBDy4ul05vj3oW2hIYVj}] created: [{1655391544}]
+[INFO] [default] [2022-06-16T15:03:10.002Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:03:10.503Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 501 ms
+[INFO] [streamChoices] [2022-06-16T15:03:10.504Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlJWYTtVc0KvTteFsqZUHkYmfMmk}] created: [{1655391790}]
+[INFO] [default] [2022-06-16T15:03:14.555Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:03:15.034Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 479 ms
+[INFO] [streamChoices] [2022-06-16T15:03:15.035Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlJaPTzsYByPuDxzgJZloZ307ZVc}] created: [{1655391794}]
+[INFO] [ghostText] [2022-06-16T15:03:20.282Z] Found inline suggestions locally
+[INFO] [default] [2022-06-16T15:03:23.988Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:03:24.616Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:03:25.912Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:03:26.361Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 449 ms
+[INFO] [streamChoices] [2022-06-16T15:03:26.486Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlJlwAPuxOW3wv4YGEgikvzm0VPo}] created: [{1655391805}]
+[INFO] [default] [2022-06-16T15:03:33.835Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:03:34.314Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 478 ms
+[INFO] [streamChoices] [2022-06-16T15:03:34.315Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlJtF3ITXseLmE7Ds5xwhhUMehYK}] created: [{1655391813}]
+[INFO] [default] [2022-06-16T15:03:35.709Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:03:35.951Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 242 ms
+[INFO] [streamChoices] [2022-06-16T15:03:35.951Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlJvGwV6RKtOVQPdt0hoFMPol4qz}] created: [{1655391815}]
+[INFO] [ghostText] [2022-06-16T15:03:35.953Z] Filtered out solution matching next line
+[INFO] [default] [2022-06-16T15:03:38.002Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:05:26.470Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:05:26.915Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 445 ms
+[INFO] [streamChoices] [2022-06-16T15:05:27.148Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlLip2LXm9weBmMWFQSqwfelnLUT}] created: [{1655391926}]
+[INFO] [default] [2022-06-16T15:05:28.733Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:05:28.941Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 208 ms
+[INFO] [streamChoices] [2022-06-16T15:05:28.942Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlLkb15PyaE5AINzayTJVpL6RF3K}] created: [{1655391928}]
+[INFO] [default] [2022-06-16T15:07:09.615Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:07:09.998Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 383 ms
+[INFO] [streamChoices] [2022-06-16T15:07:10.445Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlNNvpmUA8qBrQyLrW1jdz1TLRgm}] created: [{1655392029}]
+[INFO] [default] [2022-06-16T15:07:12.683Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:07:12.953Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 270 ms
+[INFO] [streamChoices] [2022-06-16T15:07:12.954Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlNQPSiQ9EWBM5n40oO4gSMHLvqz}] created: [{1655392032}]
+[INFO] [default] [2022-06-16T15:07:13.662Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:07:13.910Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 248 ms
+[INFO] [streamChoices] [2022-06-16T15:07:13.911Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlNRh3Hxresbvd7DqjzgfLgHIQUk}] created: [{1655392033}]
+[INFO] [default] [2022-06-16T15:07:15.712Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:07:55.382Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:07:55.830Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 448 ms
+[INFO] [default] [2022-06-16T15:08:47.492Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:08:49.845Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:08:50.124Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 279 ms
+[INFO] [streamChoices] [2022-06-16T15:08:50.126Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlOzRsak0SjD5yOxXzDWbmeN2Z8Q}] created: [{1655392129}]
+[INFO] [default] [2022-06-16T15:17:26.994Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:17:27.728Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 734 ms
+[INFO] [streamChoices] [2022-06-16T15:17:28.070Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlXLMZtmjz8XK5rwoEid82Ope0mK}] created: [{1655392647}]
+[INFO] [default] [2022-06-16T15:17:34.064Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:17:34.388Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 323 ms
+[INFO] [streamChoices] [2022-06-16T15:17:34.389Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlXScM4V9wMjbw5DuodXJQDyYxbv}] created: [{1655392654}]
+[INFO] [ghostText] [2022-06-16T15:17:34.684Z] Found inline suggestions locally
+[INFO] [default] [2022-06-16T15:17:36.923Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:17:37.390Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:17:37.721Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:17:38.129Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2022-06-16T15:17:38.547Z] Found inline suggestions locally
+[INFO] [ghostText] [2022-06-16T15:17:39.157Z] Found inline suggestions locally
+[INFO] [default] [2022-06-16T15:19:58.026Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2022-06-16T15:19:58.436Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 410 ms
+[INFO] [streamChoices] [2022-06-16T15:19:58.655Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-5JlZmGQzuWX7tutM4xAlwX8ahTkTQ}] created: [{1655392798}]

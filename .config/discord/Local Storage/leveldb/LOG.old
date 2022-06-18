@@ -1,0 +1,6 @@
+2022/06/18-00:26:35.732 3c4 Reusing MANIFEST /home/cpadridev/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/18-00:26:35.734 3c4 Recovering log #28
+2022/06/18-00:26:35.734 3c4 Reusing old log /home/cpadridev/.config/discord/Local Storage/leveldb/000028.log 
+2022/06/18-01:00:37.001 83f Level-0 table #32: started
+2022/06/18-01:00:37.003 83f Level-0 table #32: 10440 bytes OK
+2022/06/18-01:00:37.005 83f Delete type=0 #28

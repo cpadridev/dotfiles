@@ -1,0 +1,272 @@
+[2022-06-16 17:24:24.037] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-16 17:24:24.102] [renderer1] [info] [GitHub.vscode-pull-request-github]: `remoteHub/pullRequest` is not a valid menu identifier
+[2022-06-16 17:24:24.867] [renderer1] [error] [Extension Host] (node:29825) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-06-16 17:24:29.077] [renderer1] [error] Activating extension 'ms-vsliveshare.vsliveshare' failed: Agent terminated with exit code: 0 and signal null: Process terminated. Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.at System.Environment.FailFast(System.String)
+   at System.Globalization.GlobalizationMode.GetGlobalizationInvariantMode()
+   at System.Globalization.GlobalizationMode..cctor()
+   at System.Globalization.CultureData.CreateCultureWithInvariantData()
+   at System.Globalization.CultureData.get_Invariant()
+   at System.Globalization.CultureInfo..cctor()
+   at System.String.ToLowerInvariant()
+   at System.Text.EncodingHelper.GetCharset()
+   at System.Text.EncodingHelper.GetEncodingFromCharset()
+   at System.ConsolePal.GetConsoleEncoding()
+   at System.Console+<>c.<get_OutputEncoding>b__19_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_OutputEncoding()
+   at System.Console.CreateOutputWriter(System.IO.Stream)
+   at System.Console+<>c.<get_Out>b__26_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_Out()
+   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication..ctor(Boolean)
+   at Microsoft.Cascade.Agent.Program..ctor()
+   at Microsoft.Cascade.Agent.Program.Main(System.String[]).: Error: Agent terminated with exit code: 0 and signal null: Process terminated. Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.at System.Environment.FailFast(System.String)
+   at System.Globalization.GlobalizationMode.GetGlobalizationInvariantMode()
+   at System.Globalization.GlobalizationMode..cctor()
+   at System.Globalization.CultureData.CreateCultureWithInvariantData()
+   at System.Globalization.CultureData.get_Invariant()
+   at System.Globalization.CultureInfo..cctor()
+   at System.String.ToLowerInvariant()
+   at System.Text.EncodingHelper.GetCharset()
+   at System.Text.EncodingHelper.GetEncodingFromCharset()
+   at System.ConsolePal.GetConsoleEncoding()
+   at System.Console+<>c.<get_OutputEncoding>b__19_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_OutputEncoding()
+   at System.Console.CreateOutputWriter(System.IO.Stream)
+   at System.Console+<>c.<get_Out>b__26_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_Out()
+   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication..ctor(Boolean)
+   at Microsoft.Cascade.Agent.Program..ctor()
+   at Microsoft.Cascade.Agent.Program.Main(System.String[])
+    at ChildProcess.<anonymous> (/home/cpadridev/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5625/src/abstractions/node/agent.ts:303:32)
+    at ChildProcess.emit (node:events:402:35)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:390:28)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-06-16 17:30:16.294] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:33:18.299] [renderer1] [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/cpadridev/projects/testimonials-grid-section-main)
+[2022-06-16 17:33:35.401] [renderer1] [warning] [File Watcher (parcel)] Watcher restarts because watched path got created again (path: /home/cpadridev/projects/testimonials-grid-section-main)
+[2022-06-16 17:33:42.299] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-16 17:33:42.378] [renderer1] [info] [GitHub.vscode-pull-request-github]: `remoteHub/pullRequest` is not a valid menu identifier
+[2022-06-16 17:33:42.962] [renderer1] [error] [Extension Host] (node:32323) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-06-16 17:33:44.315] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-16 17:33:44.383] [renderer1] [info] [GitHub.vscode-pull-request-github]: `remoteHub/pullRequest` is not a valid menu identifier
+[2022-06-16 17:33:44.961] [renderer1] [error] [Extension Host] (node:32356) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-06-16 17:33:48.460] [renderer1] [error] Activating extension 'ms-vsliveshare.vsliveshare' failed: Agent terminated with exit code: 0 and signal null: Process terminated. Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.at System.Environment.FailFast(System.String)
+   at System.Globalization.GlobalizationMode.GetGlobalizationInvariantMode()
+   at System.Globalization.GlobalizationMode..cctor()
+   at System.Globalization.CultureData.CreateCultureWithInvariantData()
+   at System.Globalization.CultureData.get_Invariant()
+   at System.Globalization.CultureInfo..cctor()
+   at System.String.ToLowerInvariant()
+   at System.Text.EncodingHelper.GetCharset()
+   at System.Text.EncodingHelper.GetEncodingFromCharset()
+   at System.ConsolePal.GetConsoleEncoding()
+   at System.Console+<>c.<get_OutputEncoding>b__19_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_OutputEncoding()
+   at System.Console.CreateOutputWriter(System.IO.Stream)
+   at System.Console+<>c.<get_Out>b__26_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_Out()
+   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication..ctor(Boolean)
+   at Microsoft.Cascade.Agent.Program..ctor()
+   at Microsoft.Cascade.Agent.Program.Main(System.String[]).: Error: Agent terminated with exit code: 0 and signal null: Process terminated. Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.at System.Environment.FailFast(System.String)
+   at System.Globalization.GlobalizationMode.GetGlobalizationInvariantMode()
+   at System.Globalization.GlobalizationMode..cctor()
+   at System.Globalization.CultureData.CreateCultureWithInvariantData()
+   at System.Globalization.CultureData.get_Invariant()
+   at System.Globalization.CultureInfo..cctor()
+   at System.String.ToLowerInvariant()
+   at System.Text.EncodingHelper.GetCharset()
+   at System.Text.EncodingHelper.GetEncodingFromCharset()
+   at System.ConsolePal.GetConsoleEncoding()
+   at System.Console+<>c.<get_OutputEncoding>b__19_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_OutputEncoding()
+   at System.Console.CreateOutputWriter(System.IO.Stream)
+   at System.Console+<>c.<get_Out>b__26_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_Out()
+   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication..ctor(Boolean)
+   at Microsoft.Cascade.Agent.Program..ctor()
+   at Microsoft.Cascade.Agent.Program.Main(System.String[])
+    at ChildProcess.<anonymous> (/home/cpadridev/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5625/src/abstractions/node/agent.ts:303:32)
+    at ChildProcess.emit (node:events:402:35)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:390:28)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-06-16 17:40:40.846] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:44:51.450] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:44:53.450] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 17:44:55.362] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:44:55.363] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 17:44:55.809] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 100% of 2245.68ms, saved PROFILE here: 'file:///tmp/exthost-618e42.cpuprofile' [{"id":"formulahendry.auto-rename-tag","total":153,"percentage":0},{"id":"gc","total":414,"percentage":0},{"id":"program","total":157,"percentage":0},{"id":"ritwickdey.live-sass","total":2244565,"percentage":100},{"id":"self","total":306,"percentage":0}]
+[2022-06-16 17:45:25.013] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:45:26.558] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 17:45:29.023] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:45:29.023] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 17:45:29.683] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 100% of 2814.75ms, saved PROFILE here: 'file:///tmp/exthost-3ffb65.cpuprofile' [{"id":"gc","total":1699,"percentage":0},{"id":"ritwickdey.live-sass","total":2810766,"percentage":100},{"id":"self","total":315,"percentage":0}]
+[2022-06-16 17:45:54.401] [renderer1] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[2022-06-16 17:46:04.233] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:47:23.396] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 17:47:23.517] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 17:47:23.518] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 17:47:23.568] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 491.834ms, saved PROFILE here: 'file:///tmp/exthost-44a321.cpuprofile' [{"id":"formulahendry.auto-rename-tag","total":153,"percentage":0},{"id":"gc","total":4733,"percentage":1},{"id":"GitHub.copilot","total":630,"percentage":0},{"id":"program","total":153,"percentage":0},{"id":"ritwickdey.live-sass","total":484469,"percentage":99},{"id":"ritwickdey.LiveServer","total":309,"percentage":0},{"id":"self","total":920,"percentage":0},{"id":"vscode.json-language-features","total":311,"percentage":0}]
+[2022-06-16 17:50:09.986] [renderer1] [error] cannot open file:///home/cpadridev/projects/testimonials-grid-section-main/.vscode/settings.json. Detail: Unable to read file '/home/cpadridev/projects/testimonials-grid-section-main/.vscode/settings.json' (Error: Unable to resolve nonexistent file '/home/cpadridev/projects/testimonials-grid-section-main/.vscode/settings.json'): Error: cannot open file:///home/cpadridev/projects/testimonials-grid-section-main/.vscode/settings.json. Detail: Unable to read file '/home/cpadridev/projects/testimonials-grid-section-main/.vscode/settings.json' (Error: Unable to resolve nonexistent file '/home/cpadridev/projects/testimonials-grid-section-main/.vscode/settings.json')
+    at d.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2731:77104)
+[2022-06-16 17:57:51.979] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:17:29.264] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:17:29.676] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:17:29.677] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:17:29.798] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 824.842ms, saved PROFILE here: 'file:///tmp/exthost-42319f.cpuprofile' [{"id":"gc","total":9730,"percentage":1},{"id":"ritwickdey.live-sass","total":812997,"percentage":99},{"id":"ritwickdey.LiveServer","total":466,"percentage":0},{"id":"self","total":1266,"percentage":0},{"id":"vscode.css-language-features","total":306,"percentage":0}]
+[2022-06-16 18:20:21.543] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:20:21.798] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:20:21.799] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:20:21.941] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 92% of 668.489ms, saved PROFILE here: 'file:///tmp/exthost-2d6c00.cpuprofile' [{"id":"esbenp.prettier-vscode","total":937,"percentage":0},{"id":"gc","total":8793,"percentage":1},{"id":"GitHub.copilot","total":942,"percentage":0},{"id":"program","total":600,"percentage":0},{"id":"ritwickdey.live-sass","total":612550,"percentage":92},{"id":"ritwickdey.LiveServer","total":973,"percentage":0},{"id":"self","total":6437,"percentage":1},{"id":"vscode.css-language-features","total":1095,"percentage":0},{"id":"vscode.git","total":30084,"percentage":5},{"id":"vscode.json-language-features","total":5563,"percentage":1},{"id":"vscode.merge-conflict","total":307,"percentage":0}]
+[2022-06-16 18:21:49.172] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:22:18.047] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:22:21.986] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:22:22.209] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:22:22.209] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:22:22.317] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 664.625ms, saved PROFILE here: 'file:///tmp/exthost-9f4321.cpuprofile' [{"id":"gc","total":4353,"percentage":1},{"id":"GitHub.copilot","total":472,"percentage":0},{"id":"program","total":159,"percentage":0},{"id":"ritwickdey.live-sass","total":658612,"percentage":99},{"id":"self","total":607,"percentage":0},{"id":"vscode.css-language-features","total":304,"percentage":0}]
+[2022-06-16 18:22:27.870] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:22:28.064] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:22:28.064] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:22:28.135] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 642.424ms, saved PROFILE here: 'file:///tmp/exthost-8eaed4.cpuprofile' [{"id":"gc","total":3278,"percentage":1},{"id":"ritwickdey.live-sass","total":637498,"percentage":99},{"id":"self","total":922,"percentage":0},{"id":"vscode.css-language-features","total":152,"percentage":0}]
+[2022-06-16 18:22:37.050] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:22:37.175] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:22:37.175] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:22:37.224] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 564.578ms, saved PROFILE here: 'file:///tmp/exthost-dc66fb.cpuprofile' [{"id":"gc","total":3414,"percentage":1},{"id":"program","total":156,"percentage":0},{"id":"ritwickdey.live-sass","total":559202,"percentage":99},{"id":"ritwickdey.LiveServer","total":332,"percentage":0},{"id":"self","total":924,"percentage":0},{"id":"vscode.css-language-features","total":308,"percentage":0}]
+[2022-06-16 18:24:21.656] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:24:21.769] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:24:21.769] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:24:21.811] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 524.123ms, saved PROFILE here: 'file:///tmp/exthost-9b0ba2.cpuprofile' [{"id":"gc","total":10162,"percentage":2},{"id":"ms-vsliveshare.vsliveshare","total":764,"percentage":0},{"id":"program","total":297,"percentage":0},{"id":"ritwickdey.live-sass","total":511768,"percentage":98},{"id":"ritwickdey.LiveServer","total":316,"percentage":0},{"id":"self","total":456,"percentage":0},{"id":"vscode.css-language-features","total":152,"percentage":0}]
+[2022-06-16 18:24:30.881] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:24:39.191] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:24:39.239] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:24:39.239] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:24:39.265] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 497.936ms, saved PROFILE here: 'file:///tmp/exthost-39af0c.cpuprofile' [{"id":"gc","total":4463,"percentage":1},{"id":"ritwickdey.live-sass","total":491115,"percentage":99},{"id":"ritwickdey.LiveServer","total":887,"percentage":0},{"id":"self","total":987,"percentage":0},{"id":"vscode.css-language-features","total":314,"percentage":0}]
+[2022-06-16 18:24:55.495] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:24:55.583] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:24:55.583] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:24:55.617] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 525.047ms, saved PROFILE here: 'file:///tmp/exthost-bdd547.cpuprofile' [{"id":"gc","total":6417,"percentage":1},{"id":"ritwickdey.live-sass","total":516807,"percentage":98},{"id":"ritwickdey.LiveServer","total":575,"percentage":0},{"id":"self","total":893,"percentage":0},{"id":"vscode.css-language-features","total":152,"percentage":0}]
+[2022-06-16 18:25:03.710] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:26:03.000] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:26:07.203] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:26:07.530] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:26:07.531] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:26:07.800] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 763.343ms, saved PROFILE here: 'file:///tmp/exthost-139c9e.cpuprofile' [{"id":"esbenp.prettier-vscode","total":156,"percentage":0},{"id":"gc","total":5665,"percentage":1},{"id":"GitHub.copilot","total":118,"percentage":0},{"id":"ritwickdey.live-sass","total":755896,"percentage":99},{"id":"self","total":1079,"percentage":0},{"id":"vscode.css-language-features","total":309,"percentage":0}]
+[2022-06-16 18:27:34.495] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:27:34.647] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:27:34.647] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:27:34.705] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 606.411ms, saved PROFILE here: 'file:///tmp/exthost-d77831.cpuprofile' [{"id":"gc","total":7840,"percentage":1},{"id":"GitHub.copilot","total":327,"percentage":0},{"id":"program","total":152,"percentage":0},{"id":"ritwickdey.live-sass","total":596526,"percentage":98},{"id":"self","total":1324,"percentage":0},{"id":"vscode.css-language-features","total":159,"percentage":0}]
+[2022-06-16 18:27:55.557] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:28:22.807] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:29:27.907] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:29:47.100] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:30:06.254] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:30:06.371] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:30:06.372] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:30:06.410] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 571.935ms, saved PROFILE here: 'file:///tmp/exthost-b2326d.cpuprofile' [{"id":"esbenp.prettier-vscode","total":138,"percentage":0},{"id":"formulahendry.auto-rename-tag","total":158,"percentage":0},{"id":"gc","total":7423,"percentage":1},{"id":"ritwickdey.live-sass","total":562787,"percentage":98},{"id":"self","total":487,"percentage":0},{"id":"vscode.css-language-features","total":151,"percentage":0},{"id":"vscode.merge-conflict","total":720,"percentage":0}]
+[2022-06-16 18:30:24.086] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:30:24.200] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:30:24.201] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:30:24.247] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 547.253ms, saved PROFILE here: 'file:///tmp/exthost-21e4f8.cpuprofile' [{"id":"gc","total":7373,"percentage":1},{"id":"GitHub.copilot","total":784,"percentage":0},{"id":"program","total":307,"percentage":0},{"id":"ritwickdey.live-sass","total":537624,"percentage":98},{"id":"ritwickdey.LiveServer","total":315,"percentage":0},{"id":"self","total":619,"percentage":0},{"id":"vscode.css-language-features","total":151,"percentage":0}]
+[2022-06-16 18:31:33.626] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:31:33.716] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:31:33.717] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:31:33.750] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 541.051ms, saved PROFILE here: 'file:///tmp/exthost-a51dfd.cpuprofile' [{"id":"gc","total":6449,"percentage":1},{"id":"program","total":152,"percentage":0},{"id":"ritwickdey.live-sass","total":532812,"percentage":98},{"id":"ritwickdey.LiveServer","total":350,"percentage":0},{"id":"self","total":775,"percentage":0},{"id":"vscode.css-language-features","total":312,"percentage":0}]
+[2022-06-16 18:31:45.198] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:31:45.310] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:31:45.311] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:31:45.348] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 568.441ms, saved PROFILE here: 'file:///tmp/exthost-4c91bc.cpuprofile' [{"id":"gc","total":6494,"percentage":1},{"id":"ritwickdey.live-sass","total":560442,"percentage":99},{"id":"ritwickdey.LiveServer","total":805,"percentage":0},{"id":"self","total":157,"percentage":0},{"id":"vscode.css-language-features","total":311,"percentage":0},{"id":"vscode.merge-conflict","total":161,"percentage":0}]
+[2022-06-16 18:31:53.913] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:31:54.014] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:31:54.015] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:31:54.059] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 592.776ms, saved PROFILE here: 'file:///tmp/exthost-858f3c.cpuprofile' [{"id":"gc","total":6169,"percentage":1},{"id":"ritwickdey.live-sass","total":585269,"percentage":99},{"id":"self","total":787,"percentage":0},{"id":"vscode.css-language-features","total":312,"percentage":0}]
+[2022-06-16 18:34:23.192] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:36:02.484] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:39:34.394] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:40:51.299] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:40:51.354] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:40:51.354] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:40:51.357] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 470.945ms, saved PROFILE here: 'file:///tmp/exthost-3788c1.cpuprofile' [{"id":"gc","total":3087,"percentage":1},{"id":"GitHub.copilot","total":153,"percentage":0},{"id":"program","total":152,"percentage":0},{"id":"ritwickdey.live-sass","total":466194,"percentage":99},{"id":"self","total":1048,"percentage":0},{"id":"vscode.css-language-features","total":162,"percentage":0}]
+[2022-06-16 18:52:10.936] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:52:10.945] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:52:10.946] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:52:10.962] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 461.345ms, saved PROFILE here: 'file:///tmp/exthost-93ef0e.cpuprofile' [{"id":"gc","total":2434,"percentage":1},{"id":"ritwickdey.live-sass","total":458013,"percentage":99},{"id":"self","total":608,"percentage":0},{"id":"vscode.merge-conflict","total":154,"percentage":0}]
+[2022-06-16 18:55:27.647] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:55:40.559] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:55:40.619] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:55:40.619] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:55:40.653] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 508.353ms, saved PROFILE here: 'file:///tmp/exthost-d5fb76.cpuprofile' [{"id":"gc","total":5130,"percentage":1},{"id":"GitHub.copilot","total":408,"percentage":0},{"id":"program","total":154,"percentage":0},{"id":"ritwickdey.live-sass","total":501596,"percentage":99},{"id":"self","total":935,"percentage":0}]
+[2022-06-16 18:55:47.416] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:56:35.923] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:56:36.090] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:56:36.091] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:56:36.140] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 606.559ms, saved PROFILE here: 'file:///tmp/exthost-fe0bb4.cpuprofile' [{"id":"gc","total":6786,"percentage":1},{"id":"program","total":153,"percentage":0},{"id":"ritwickdey.live-sass","total":597542,"percentage":99},{"id":"self","total":1789,"percentage":0},{"id":"vscode.css-language-features","total":153,"percentage":0}]
+[2022-06-16 18:56:45.689] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:58:07.150] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:58:07.247] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:58:07.247] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:58:07.282] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 559.698ms, saved PROFILE here: 'file:///tmp/exthost-f755a6.cpuprofile' [{"id":"gc","total":7955,"percentage":1},{"id":"GitHub.copilot","total":159,"percentage":0},{"id":"ritwickdey.live-sass","total":550058,"percentage":98},{"id":"self","total":1238,"percentage":0},{"id":"vscode.css-language-features","total":155,"percentage":0}]
+[2022-06-16 18:59:43.419] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 18:59:43.630] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 18:59:43.630] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 18:59:43.753] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 652.248ms, saved PROFILE here: 'file:///tmp/exthost-7f969e.cpuprofile' [{"id":"gc","total":7992,"percentage":1},{"id":"GitHub.copilot","total":311,"percentage":0},{"id":"ritwickdey.live-sass","total":642607,"percentage":99},{"id":"self","total":769,"percentage":0},{"id":"vscode.css-language-features","total":309,"percentage":0},{"id":"vscode.git","total":189,"percentage":0}]
+[2022-06-16 19:00:46.400] [renderer1] [warning] {}
+[2022-06-16 19:00:48.242] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 19:00:48.405] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:00:48.405] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 19:00:48.494] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 619.77ms, saved PROFILE here: 'file:///tmp/exthost-67d929.cpuprofile' [{"id":"gc","total":5857,"percentage":1},{"id":"ritwickdey.live-sass","total":611826,"percentage":99},{"id":"self","total":1853,"percentage":0},{"id":"vscode.json-language-features","total":153,"percentage":0}]
+[2022-06-16 19:00:51.025] [renderer1] [warning] {}
+[2022-06-16 19:00:52.261] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 19:00:52.354] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:00:52.354] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 19:00:52.403] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 554.093ms, saved PROFILE here: 'file:///tmp/exthost-cb7b4e.cpuprofile' [{"id":"gc","total":1997,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":155,"percentage":0},{"id":"ritwickdey.live-sass","total":549421,"percentage":99},{"id":"ritwickdey.LiveServer","total":153,"percentage":0},{"id":"self","total":1942,"percentage":0},{"id":"vscode.json-language-features","total":306,"percentage":0}]
+[2022-06-16 19:00:56.333] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 19:00:56.471] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:00:56.471] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 19:00:56.529] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 95% of 600.063ms, saved PROFILE here: 'file:///tmp/exthost-24ac89.cpuprofile' [{"id":"gc","total":615,"percentage":0},{"id":"program","total":310,"percentage":0},{"id":"ritwickdey.live-sass","total":570476,"percentage":95},{"id":"ritwickdey.LiveServer","total":770,"percentage":0},{"id":"self","total":2126,"percentage":0},{"id":"vscode.git","total":25645,"percentage":4}]
+[2022-06-16 19:01:00.986] [renderer1] [warning] {}
+[2022-06-16 19:01:01.544] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:01:02.750] [renderer1] [warning] {}
+[2022-06-16 19:01:04.621] [renderer1] [warning] {}
+[2022-06-16 19:01:04.650] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:01:06.384] [renderer1] [warning] {}
+[2022-06-16 19:01:07.778] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:01:10.914] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:01:14.094] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:01:17.200] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:01:18.070] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 19:01:18.127] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 19:01:18.157] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 94% of 554.932ms, saved PROFILE here: 'file:///tmp/exthost-376365.cpuprofile' [{"id":"gc","total":4185,"percentage":1},{"id":"ritwickdey.live-sass","total":522993,"percentage":94},{"id":"ritwickdey.LiveServer","total":427,"percentage":0},{"id":"self","total":1442,"percentage":0},{"id":"vscode.git","total":25481,"percentage":5}]
+[2022-06-16 19:01:34.385] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:05:56.930] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 19:05:57.015] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:05:57.015] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 19:05:57.045] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 98% of 526.821ms, saved PROFILE here: 'file:///tmp/exthost-4df6e1.cpuprofile' [{"id":"esbenp.prettier-vscode","total":160,"percentage":0},{"id":"gc","total":10014,"percentage":2},{"id":"ritwickdey.live-sass","total":514517,"percentage":98},{"id":"ritwickdey.LiveServer","total":76,"percentage":0},{"id":"self","total":737,"percentage":0},{"id":"vscode.css-language-features","total":161,"percentage":0},{"id":"vscode.emmet","total":621,"percentage":0},{"id":"vscode.extension-editing","total":160,"percentage":0},{"id":"vscode.merge-conflict","total":155,"percentage":0}]
+[2022-06-16 19:06:03.680] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:07:02.742] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:07:02.761] [renderer1] [error] [Extension Host] [ERROR] [restraint] [2022-06-16T17:07:02.744Z] No value found for meanLogProb -- only got {"promptCharLen":458,"promptEndPos":414,"documentLength":516,"delayMs":0,"promptComputeTimeMs":1,"timeSinceIssuedMs":0,"numTokens":2,"compCharLen":1,"numLines":1,"meanAlternativeLogProb":-44.87769,"python":0}
+[2022-06-16 19:07:02.761] [renderer1] [error] [Extension Host] [ERROR] [restraint] [2022-06-16T17:07:02.744Z] No value found for meanLogProb -- only got {"promptCharLen":458,"promptEndPos":414,"documentLength":516,"delayMs":0,"promptComputeTimeMs":1,"timeSinceIssuedMs":0,"numTokens":2,"compCharLen":1,"numLines":1,"meanAlternativeLogProb":-44.87769,"confidence":null,"python":0}
+[2022-06-16 19:07:16.125] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-16 19:07:16.216] [renderer1] [error] [Extension Host] not found /home/cpadridev/projects/testimonials-grid-section-main/node_modules/bootstrap/scss/_bootstrap
+[2022-06-16 19:07:16.216] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-16 19:07:16.249] [renderer1] [warning] UNRESPONSIVE extension host: 'ritwickdey.live-sass' took 99% of 556.285ms, saved PROFILE here: 'file:///tmp/exthost-03100e.cpuprofile' [{"id":"gc","total":5535,"percentage":1},{"id":"GitHub.copilot","total":612,"percentage":0},{"id":"ritwickdey.live-sass","total":548208,"percentage":99},{"id":"ritwickdey.LiveServer","total":158,"percentage":0},{"id":"self","total":1544,"percentage":0},{"id":"vscode.css-language-features","total":150,"percentage":0}]

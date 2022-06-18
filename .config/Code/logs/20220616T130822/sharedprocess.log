@@ -1,0 +1,15 @@
+[2022-06-16 13:08:23.994] [sharedprocess] [info] Starting worker process with pid 3085 (type: fileWatcher, window: 1).
+[2022-06-16 13:08:25.852] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-16 13:08:25.853] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-06-16 13:08:26.508] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-16 13:08:26.509] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-06-16 13:08:28.318] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/cpadridev/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.20
+[2022-06-16 13:08:30.102] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/cpadridev/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5625
+[2022-06-16 13:08:30.778] [sharedprocess] [info] Extracted extension to /home/cpadridev/.vscode/extensions/.cff1d6d3-f31a-4b33-8413-19883ebfecad: ms-python.vscode-pylance
+[2022-06-16 13:08:30.786] [sharedprocess] [info] Renamed to /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.20
+[2022-06-16 13:08:30.788] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-16 13:08:30.791] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-16 13:08:31.400] [sharedprocess] [info] Extracted extension to /home/cpadridev/.vscode/extensions/.6684aaa8-4cf0-44c1-89e9-5a8dff8b2f07: ms-vsliveshare.vsliveshare
+[2022-06-16 13:08:31.406] [sharedprocess] [info] Renamed to /home/cpadridev/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5625
+[2022-06-16 13:08:31.408] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-06-16 13:08:31.410] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare

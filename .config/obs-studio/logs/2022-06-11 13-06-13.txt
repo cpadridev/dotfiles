@@ -1,0 +1,89 @@
+13:06:13.081: CPU Name: AMD Ryzen 5 3600X 6-Core Processor
+13:06:13.081: CPU Speed: 2200.000MHz
+13:06:13.111: Physical Cores: 6, Logical Cores: 12
+13:06:13.111: Physical Memory: 15906MB Total, 14885MB Free
+13:06:13.111: Kernel Version: Linux 5.15.46-1-lts
+13:06:13.111: Distribution: "Arch Linux" Unknown
+13:06:13.111: Session Type: x11
+13:06:13.111: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+13:06:13.112: Qt Version: 5.15.4 (runtime), 5.15.3 (compiled)
+13:06:13.112: Portable mode: false
+13:06:13.190: OBS 27.2.4-1 (linux)
+13:06:13.190: ---------------------------------
+13:06:13.190: ---------------------------------
+13:06:13.190: audio settings reset:
+13:06:13.190: 	samples per sec: 48000
+13:06:13.190: 	speakers:        2
+13:06:13.194: ---------------------------------
+13:06:13.194: Initializing OpenGL...
+13:06:13.243: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 2060/PCIe/SSE2
+13:06:13.243: OpenGL loaded successfully, version 3.3.0 NVIDIA 515.48.07, shading language 3.30 NVIDIA via Cg compiler
+13:06:13.250: ---------------------------------
+13:06:13.250: video settings reset:
+13:06:13.250: 	base resolution:   1920x1080
+13:06:13.250: 	output resolution: 1920x1080
+13:06:13.250: 	downscale filter:  Lanczos
+13:06:13.250: 	fps:               60/1
+13:06:13.250: 	format:            NV12
+13:06:13.250: 	YUV mode:          709/Partial
+13:06:13.250: NV12 texture support not available
+13:06:13.263: Audio monitoring device:
+13:06:13.263: 	name: Default
+13:06:13.263: 	id: default
+13:06:13.263: ---------------------------------
+13:06:13.265: Failed to load 'en-US' text for module: 'decklink-captions.so'
+13:06:13.268: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+13:06:13.270: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+13:06:13.270: 
+13:06:13.270: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+13:06:13.279: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:06:13.279: No blackmagic support
+13:06:13.291: v4l2loopback not installed, virtual camera disabled
+13:06:13.321: NVENC supported
+13:06:13.321: FFMPEG VAAPI supported
+13:06:13.337: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: cannot open shared object file: No such file or directory
+13:06:13.337: 
+13:06:13.337: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+13:06:13.339: ---------------------------------
+13:06:13.339:   Loaded Modules:
+13:06:13.339:     text-freetype2.so
+13:06:13.339:     rtmp-services.so
+13:06:13.339:     obs-x264.so
+13:06:13.339:     obs-transitions.so
+13:06:13.339:     obs-outputs.so
+13:06:13.339:     obs-libfdk.so
+13:06:13.339:     obs-filters.so
+13:06:13.339:     obs-ffmpeg.so
+13:06:13.339:     linux-v4l2.so
+13:06:13.339:     linux-pulseaudio.so
+13:06:13.339:     linux-jack.so
+13:06:13.339:     linux-decklink.so
+13:06:13.339:     linux-capture.so
+13:06:13.339:     linux-alsa.so
+13:06:13.339:     image-source.so
+13:06:13.339:     decklink-ouput-ui.so
+13:06:13.339:     decklink-captions.so
+13:06:13.339: ---------------------------------
+13:06:13.339: ==== Startup complete ===============================================
+13:06:13.361: All scene data cleared
+13:06:13.361: ------------------------------------------------
+13:06:13.362: pulse-input: Server name: 'pulseaudio 16.0'
+13:06:13.362: pulse-input: Audio format: s16le, 48000 Hz, 8 channels
+13:06:13.362: pulse-input: Started recording from 'alsa_output.usb-ADATA_Technology_Co.__Ltd._XPG_Precog_Gaming_Headset-00.analog-surround-71.monitor'
+13:06:13.362: [Loaded global audio device]: 'Desktop Audio'
+13:06:13.366: pulse-input: Server name: 'pulseaudio 16.0'
+13:06:13.366: pulse-input: Audio format: s24le, 96000 Hz, 1 channels
+13:06:13.366: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+13:06:13.366: pulse-input: Started recording from 'alsa_input.usb-Marow_Co_.LTD_Owlotech_X2_Streaming_000000000000-00.mono-fallback'
+13:06:13.366: [Loaded global audio device]: 'Mic/Aux'
+13:06:13.366:     - filter: 'Limiter' (limiter_filter)
+13:06:13.366:     - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+13:06:13.366: xshm-input: Geometry 1920x1080 @ 1280,0
+13:06:13.367: Switched to scene 'Scene'
+13:06:13.367: ------------------------------------------------
+13:06:13.367: Loaded scenes:
+13:06:13.367: - scene 'Scene':
+13:06:13.367:     - source: 'Screen Capture (XSHM)' (xshm_input)
+13:06:13.367: ------------------------------------------------
+13:06:13.957: adding 64 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Mic/Aux)
+13:06:13.957: 

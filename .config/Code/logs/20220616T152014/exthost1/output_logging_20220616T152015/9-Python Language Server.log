@@ -1,0 +1,16 @@
+[Info  - 3:20:19 PM] (8949) Pylance language server 2022.6.20 (pyright 979d9c9e) starting
+[Info  - 3:20:19 PM] (8949) Server root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist
+Notebook support: Legacy
+[Info  - 3:20:19 PM] (8949) Background analysis(1) root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist
+[Info  - 3:20:19 PM] (8949) Background analysis(1) started
+[Info  - 3:20:19 PM] (8949) No configuration file found.
+[Info  - 3:20:19 PM] (8949) No pyproject.toml file found.
+[Info  - 3:20:19 PM] (8949) Setting pythonPath for service "cpadridev": "/bin/python"
+[Warn  - 3:20:19 PM] (8949) stubPath /home/cpadridev/typings is not a valid directory.
+[Info  - 3:20:19 PM] (8949) Assuming Python version 3.10
+[Info  - 3:20:19 PM] (8949) Assuming Python platform Linux
+[Info  - 3:20:20 PM] (8949) Searching for source files
+[Info  - 3:20:20 PM] (8949) No source files found.
+[Info  - 3:20:20 PM] (8949) Indexer background runner(2) root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist (index)
+[Info  - 3:20:20 PM] (8949) Indexing(2) started
+[Info  - 3:20:20 PM] (8949) Indexer done(2). indexed 447 files

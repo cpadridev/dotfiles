@@ -1,0 +1,32 @@
+[2022-06-16 15:20:16.072] [sharedprocess] [info] Starting worker process with pid 8878 (type: fileWatcher, window: 1).
+[2022-06-16 15:20:16.161] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.10
+[2022-06-16 15:20:16.162] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/cpadridev/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5615
+[2022-06-16 15:20:22.990] [sharedprocess] [info] Worker process with pid 8878 terminated normally (type: fileWatcher, window: 1).
+[2022-06-16 15:20:23.562] [sharedprocess] [info] Starting worker process with pid 8992 (type: fileWatcher, window: 1).
+[2022-06-16 15:21:00.021] [sharedprocess] [info] Worker process with pid 8992 terminated normally (type: fileWatcher, window: 1).
+[2022-06-16 15:21:00.703] [sharedprocess] [info] Starting worker process with pid 9092 (type: fileWatcher, window: 1).
+[2022-06-16 15:28:52.069] [sharedprocess] [info] Getting Manifest... ritwickdey.live-sass
+[2022-06-16 15:28:52.072] [sharedprocess] [info] Installing extension: ritwickdey.live-sass
+[2022-06-16 15:28:53.394] [sharedprocess] [info] Downloaded extension: ritwickdey.live-sass /home/cpadridev/.config/Code/CachedExtensionVSIXs/ritwickdey.live-sass-3.0.0
+[2022-06-16 15:28:53.860] [sharedprocess] [info] Extracted extension to /home/cpadridev/.vscode/extensions/.41a46468-ef28-4787-a744-17c43e262b82: ritwickdey.live-sass
+[2022-06-16 15:28:53.870] [sharedprocess] [info] Renamed to /home/cpadridev/.vscode/extensions/ritwickdey.live-sass-3.0.0
+[2022-06-16 15:28:53.870] [sharedprocess] [info] Extracting completed. ritwickdey.live-sass
+[2022-06-16 15:28:53.872] [sharedprocess] [info] Extension installed successfully: ritwickdey.live-sass
+[2022-06-16 15:29:00.336] [sharedprocess] [info] Getting Manifest... michelemelluso.code-beautifier
+[2022-06-16 15:29:00.338] [sharedprocess] [info] Installing extension: michelemelluso.code-beautifier
+[2022-06-16 15:29:01.199] [sharedprocess] [info] Getting Manifest... syler.sass-indented
+[2022-06-16 15:29:01.201] [sharedprocess] [info] Installing extension: syler.sass-indented
+[2022-06-16 15:29:01.479] [sharedprocess] [info] Downloaded extension: michelemelluso.code-beautifier /home/cpadridev/.config/Code/CachedExtensionVSIXs/michelemelluso.code-beautifier-2.3.3
+[2022-06-16 15:29:01.573] [sharedprocess] [info] Extracted extension to /home/cpadridev/.vscode/extensions/.ede8b0d4-c8db-45e4-8136-3f4fb0c532b8: michelemelluso.code-beautifier
+[2022-06-16 15:29:01.583] [sharedprocess] [info] Renamed to /home/cpadridev/.vscode/extensions/michelemelluso.code-beautifier-2.3.3
+[2022-06-16 15:29:01.583] [sharedprocess] [info] Extracting completed. michelemelluso.code-beautifier
+[2022-06-16 15:29:01.584] [sharedprocess] [info] Extension installed successfully: michelemelluso.code-beautifier
+[2022-06-16 15:29:02.263] [sharedprocess] [info] Downloaded extension: syler.sass-indented /home/cpadridev/.config/Code/CachedExtensionVSIXs/syler.sass-indented-1.8.20
+[2022-06-16 15:29:02.272] [sharedprocess] [info] Extracted extension to /home/cpadridev/.vscode/extensions/.83c5d38b-877d-4cb7-b747-0e5fad10e31e: syler.sass-indented
+[2022-06-16 15:29:02.275] [sharedprocess] [info] Renamed to /home/cpadridev/.vscode/extensions/syler.sass-indented-1.8.20
+[2022-06-16 15:29:02.275] [sharedprocess] [info] Extracting completed. syler.sass-indented
+[2022-06-16 15:29:02.276] [sharedprocess] [info] Extension installed successfully: syler.sass-indented
+[2022-06-16 15:33:17.937] [sharedprocess] [info] Worker process with pid 9092 terminated normally (type: fileWatcher, window: 1).
+[2022-06-16 15:33:18.526] [sharedprocess] [info] Starting worker process with pid 11465 (type: fileWatcher, window: 1).
+[2022-06-16 15:33:34.385] [sharedprocess] [info] Worker process with pid 11465 terminated normally (type: fileWatcher, window: 1).
+[2022-06-16 15:33:34.971] [sharedprocess] [info] Starting worker process with pid 11524 (type: fileWatcher, window: 1).

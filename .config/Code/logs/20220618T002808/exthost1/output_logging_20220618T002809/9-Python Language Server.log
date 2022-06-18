@@ -1,0 +1,34 @@
+[Info  - 12:28:13 AM] (1724) Pylance language server 2022.6.20 (pyright 979d9c9e) starting
+[Info  - 12:28:13 AM] (1724) Server root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist
+Notebook support: Legacy
+[Info  - 12:28:13 AM] (1724) Background analysis(1) root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist
+[Info  - 12:28:13 AM] (1724) Background analysis(1) started
+[Info  - 12:28:13 AM] (1724) No configuration file found.
+[Info  - 12:28:13 AM] (1724) No pyproject.toml file found.
+[Info  - 12:28:13 AM] (1724) Setting pythonPath for service "cpadridev": "/bin/python"
+[Warn  - 12:28:13 AM] (1724) stubPath /home/cpadridev/typings is not a valid directory.
+[Info  - 12:28:14 AM] (1724) Assuming Python version 3.10
+[Info  - 12:28:14 AM] (1724) Assuming Python platform Linux
+[Info  - 12:28:14 AM] (1724) Searching for source files
+[Info  - 12:28:14 AM] (1724) No source files found.
+[Info  - 12:28:14 AM] (1724) Indexer background runner(2) root directory: /home/cpadridev/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist (index)
+[Info  - 12:28:14 AM] (1724) Indexing(2) started
+[Info  - 12:28:14 AM] (1724) Searching for source files
+[Info  - 12:28:14 AM] (1724) No source files found.
+[Info  - 12:28:15 AM] (1724) Indexer done(2). indexed 447 files
+[Info  - 12:28:15 AM] (1724) Searching for source files
+[Info  - 12:28:15 AM] (1724) No source files found.
+[Info  - 12:28:17 AM] (1724) Searching for source files
+[Info  - 12:28:17 AM] (1724) No source files found.
+[Info  - 1:00:21 AM] (1724) Searching for source files
+[Info  - 1:00:21 AM] (1724) No source files found.
+[Info  - 1:00:23 AM] (1724) Searching for source files
+[Info  - 1:00:23 AM] (1724) No source files found.
+[Info  - 1:00:23 AM] (1724) Searching for source files
+[Info  - 1:00:23 AM] (1724) No source files found.
+[Info  - 1:00:27 AM] (1724) Searching for source files
+[Info  - 1:00:27 AM] (1724) No source files found.
+[Info  - 1:00:27 AM] (1724) Searching for source files
+[Info  - 1:00:27 AM] (1724) No source files found.
+[Info  - 1:00:55 AM] (1724) Searching for source files
+[Info  - 1:00:55 AM] (1724) No source files found.

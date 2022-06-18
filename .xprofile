@@ -1,0 +1,18 @@
+# Env vars
+export PATH=$HOME/.local/bin:$PATH
+export _JAVA_AWT_WM_NONREPARENTING=1
+export QT_STYLE_OVERRIDE=kvantum
+
+# Screen Layout
+xrandr --output DP-0 --off --output DP-1 --mode 1360x768 --pos 3200x0 --rotate normal --output DP-2 --off --output DP-3 --mode 1280x1024 --pos 0x0 --rotate normal --output HDMI-0 --primary --mode 1920x1080 --pos 1280x0 --rotate normal --output DP-4 --off --output DP-5 --off
+
+# Composer
+picom &
+# Keyboard Layout
+setxkbmap es &
+# Volume
+volctl &
+# Automount Devices
+udiskie -t &
+# Wallpaper
+feh --bg-scale Wallpapers/01.png &

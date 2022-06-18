@@ -1,0 +1,21 @@
+[2022-06-16 13:08:23.600] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2022-06-16 13:08:23.600] [settingssync] [info] Auto Sync is enabled.
+[2022-06-16 13:08:23.600] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2022-06-16 13:08:26.185] [settingssync] [info] Auto Sync: Started
+[2022-06-16 13:08:26.185] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-06-16 13:08:27.287] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-06-16 13:08:27.296] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-06-16 13:08:27.298] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-16 13:08:27.301] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-16 13:08:28.768] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-06-16 13:08:28.773] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-06-16 13:08:28.854] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-06-16 13:08:28.859] [settingssync] [info] Sync done. Took 1588ms
+[2022-06-16 13:08:29.975] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-06-16 13:08:30.093] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-06-16 13:08:30.095] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-06-16 13:08:30.099] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-16 13:08:30.102] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-16 13:08:30.105] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-06-16 13:08:30.160] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-06-16 13:08:30.160] [settingssync] [info] Sync done. Took 72ms

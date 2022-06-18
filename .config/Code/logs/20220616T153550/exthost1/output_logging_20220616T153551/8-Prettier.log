@@ -1,0 +1,2286 @@
+["INFO" - 3:35:55 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 3:35:55 PM] Extension Version: 9.5.0.
+["INFO" - 3:38:40 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 3:38:40 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 3:38:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:38:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:38:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["INFO" - 3:38:40 PM] Formatting completed in 0.064ms.
+["INFO" - 4:19:27 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:19:27 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:19:27 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:19:27 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:19:27 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["INFO" - 4:19:27 PM] Formatting completed in 0.034ms.
+["INFO" - 4:37:09 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:37:09 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:37:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:37:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:37:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["INFO" - 4:37:09 PM] Formatting completed in 0.021ms.
+["INFO" - 4:39:02 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:39:02 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:39:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:39:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:39:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["INFO" - 4:39:02 PM] Formatting completed in 0.013ms.
+["INFO" - 4:49:42 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:49:42 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:49:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:49:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:49:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:49:42 PM] Error formatting document.
+["ERROR" - 4:49:42 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:49:42 PM] Formatting completed in 0.048ms.
+["INFO" - 4:49:42 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:49:42 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:49:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:49:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:49:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:49:42 PM] Error formatting document.
+["ERROR" - 4:49:42 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:49:42 PM] Formatting completed in 0.006ms.
+["INFO" - 4:49:42 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:49:42 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:49:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:49:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:49:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:49:42 PM] Error formatting document.
+["ERROR" - 4:49:42 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:49:42 PM] Formatting completed in 0.007ms.
+["INFO" - 4:49:42 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:49:42 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:49:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:49:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:49:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:49:42 PM] Error formatting document.
+["ERROR" - 4:49:42 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:49:42 PM] Formatting completed in 0.006ms.
+["INFO" - 4:49:49 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:49:49 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:49:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:49:49 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:49:49 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:49:49 PM] Error formatting document.
+["ERROR" - 4:49:49 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:49:49 PM] Formatting completed in 0.011ms.
+["INFO" - 4:49:49 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:49:49 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:49:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:49:49 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:49:49 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:49:49 PM] Error formatting document.
+["ERROR" - 4:49:49 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:49:49 PM] Formatting completed in 0.006ms.
+["INFO" - 4:52:21 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:21 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:21 PM] Error formatting document.
+["ERROR" - 4:52:21 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:21 PM] Formatting completed in 0.006ms.
+["INFO" - 4:52:22 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:22 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:22 PM] Error formatting document.
+["ERROR" - 4:52:22 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:22 PM] Formatting completed in 0.007ms.
+["INFO" - 4:52:22 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:22 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:22 PM] Error formatting document.
+["ERROR" - 4:52:22 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:22 PM] Formatting completed in 0.006ms.
+["INFO" - 4:52:22 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:22 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:22 PM] Error formatting document.
+["ERROR" - 4:52:22 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:22 PM] Formatting completed in 0.007ms.
+["INFO" - 4:52:26 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:26 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:26 PM] Error formatting document.
+["ERROR" - 4:52:26 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:26 PM] Formatting completed in 0.005ms.
+["INFO" - 4:52:56 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:56 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:56 PM] Error formatting document.
+["ERROR" - 4:52:56 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:56 PM] Formatting completed in 0.008ms.
+["INFO" - 4:52:56 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:56 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:56 PM] Error formatting document.
+["ERROR" - 4:52:56 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:56 PM] Formatting completed in 0.007ms.
+["INFO" - 4:52:57 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:57 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:57 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:57 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:57 PM] Error formatting document.
+["ERROR" - 4:52:57 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:57 PM] Formatting completed in 0.006ms.
+["INFO" - 4:52:57 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:57 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:57 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:57 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:57 PM] Error formatting document.
+["ERROR" - 4:52:57 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:57 PM] Formatting completed in 0.005ms.
+["INFO" - 4:52:57 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:52:57 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:52:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:52:57 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:52:57 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:52:57 PM] Error formatting document.
+["ERROR" - 4:52:57 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:52:57 PM] Formatting completed in 0.006ms.
+["INFO" - 4:53:30 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:30 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:30 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:30 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:30 PM] Error formatting document.
+["ERROR" - 4:53:30 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:30 PM] Formatting completed in 0.006ms.
+["INFO" - 4:53:30 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:30 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:30 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:30 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:30 PM] Error formatting document.
+["ERROR" - 4:53:30 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:30 PM] Formatting completed in 0.005ms.
+["INFO" - 4:53:30 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:30 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:30 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:30 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:30 PM] Error formatting document.
+["ERROR" - 4:53:30 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:30 PM] Formatting completed in 0.005ms.
+["INFO" - 4:53:31 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:31 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:31 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:31 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:31 PM] Error formatting document.
+["ERROR" - 4:53:31 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:31 PM] Formatting completed in 0.006ms.
+["INFO" - 4:53:31 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:31 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:31 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:31 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:31 PM] Error formatting document.
+["ERROR" - 4:53:31 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:31 PM] Formatting completed in 0.005ms.
+["INFO" - 4:53:41 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:41 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:41 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:41 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:41 PM] Error formatting document.
+["ERROR" - 4:53:41 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:41 PM] Formatting completed in 0.006ms.
+["INFO" - 4:53:42 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:42 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:42 PM] Error formatting document.
+["ERROR" - 4:53:42 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:42 PM] Formatting completed in 0.006ms.
+["INFO" - 4:53:42 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:42 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:42 PM] Error formatting document.
+["ERROR" - 4:53:42 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:42 PM] Formatting completed in 0.005ms.
+["INFO" - 4:53:52 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:53:52 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:53:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:53:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:53:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:53:52 PM] Error formatting document.
+["ERROR" - 4:53:52 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:53:52 PM] Formatting completed in 0.008ms.
+["INFO" - 4:54:01 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:01 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:01 PM] Error formatting document.
+["ERROR" - 4:54:01 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:01 PM] Formatting completed in 0.007ms.
+["INFO" - 4:54:04 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:04 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:04 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:04 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:04 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:04 PM] Error formatting document.
+["ERROR" - 4:54:04 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:04 PM] Formatting completed in 0.006ms.
+["INFO" - 4:54:06 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:06 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:06 PM] Error formatting document.
+["ERROR" - 4:54:06 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:06 PM] Formatting completed in 0.005ms.
+["INFO" - 4:54:06 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:06 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:06 PM] Error formatting document.
+["ERROR" - 4:54:06 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:06 PM] Formatting completed in 0.007ms.
+["INFO" - 4:54:06 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:06 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:06 PM] Error formatting document.
+["ERROR" - 4:54:06 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:06 PM] Formatting completed in 0.006ms.
+["INFO" - 4:54:06 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:06 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:06 PM] Error formatting document.
+["ERROR" - 4:54:06 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:06 PM] Formatting completed in 0.005ms.
+["INFO" - 4:54:07 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:07 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:07 PM] Error formatting document.
+["ERROR" - 4:54:07 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:07 PM] Formatting completed in 0.005ms.
+["INFO" - 4:54:07 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:07 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:07 PM] Error formatting document.
+["ERROR" - 4:54:07 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:07 PM] Formatting completed in 0.004ms.
+["INFO" - 4:54:07 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:07 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:07 PM] Error formatting document.
+["ERROR" - 4:54:07 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:07 PM] Formatting completed in 0.005ms.
+["INFO" - 4:54:22 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:22 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:22 PM] Error formatting document.
+["ERROR" - 4:54:22 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:22 PM] Formatting completed in 0.006ms.
+["INFO" - 4:54:26 PM] Formatting file:///home/cpadridev/projects/testimonials-grid-section-main/index.html
+["INFO" - 4:54:26 PM] Using ignore file (if present) at /home/cpadridev/projects/testimonials-grid-section-main/.prettierignore
+["INFO" - 4:54:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:54:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:54:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/cpadridev/projects/testimonials-grid-section-main/index.html",
+  "parser": "html"
+}
+["ERROR" - 4:54:26 PM] Error formatting document.
+["ERROR" - 4:54:26 PM] Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+SyntaxError: Unexpected closing tag "div". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (81:15)
+  79 |                   </div>
+  80 |                 </div>
+> 81 |               </div>
+     |               ^^^^^^
+  82 |               </article>
+  83 |             </div>
+  84 |             <div class="row">
+    at t (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:4:2359)
+    at MD (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:6425)
+    at gs (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:7938)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/parser-html.js:36:8710)
+    at Object.parse (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:7330:23)
+    at coreFormat (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8641:18)
+    at formatWithCursor2 (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:8833:18)
+    at /home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39137:12
+    at Object.Success [as format] (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/node_modules/prettier/index.js:39151:12)
+    at t.default.format (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:463:45)
+    at t.PrettierEditProvider.provideEdits (/home/cpadridev/.vscode/extensions/esbenp.prettier-vscode-9.5.0/src/PrettierEditService.ts:322:22)
+    at z.provideDocumentFormattingEdits (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:105121)
+["INFO" - 4:54:26 PM] Formatting completed in 0.005ms.

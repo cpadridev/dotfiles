@@ -1,0 +1,61 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Hanged/Hanged">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Hanged – Hanged.java" projectWorkspaceId="2AOJuEvqgr58Vmz8eoay2JJZP2O">
+              <option name="activationTimestamp" value="1654877569871" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5787.30" />
+              <option name="buildTimestamp" value="1654288276333" />
+              <frame x="1279" y="23" width="1922" height="1058" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1654875825517" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Casino">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Casino" projectWorkspaceId="2AJIXa0jwfR6Bm38Mt8uCpMwZXH">
+              <option name="activationTimestamp" value="1654878022597" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5787.30" />
+              <option name="buildTimestamp" value="1654288276333" />
+              <frame x="1279" y="23" width="1922" height="1058" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1654877569995" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Java">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Java – Metodos/…/Main.java [Metodos]" projectWorkspaceId="2AOm0ohAXZJT2oKcq9DCl1Uki03">
+              <option name="activationTimestamp" value="1654888819274" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5787.30" />
+              <option name="buildTimestamp" value="1654288265829" />
+              <frame x="2243" y="27" width="952" height="1048" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1654888787055" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/CasinoOnline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CasinoOnline – User.java" opened="true" projectWorkspaceId="2AOQC6GqxkK95yuWmt2HmceTTin">
+              <option name="activationTimestamp" value="1655315123890" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-221.5787.30" />
+              <option name="buildTimestamp" value="1654288265829" />
+              <frame x="1283" y="27" width="1914" height="1050" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1654888840929" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
